@@ -6085,7 +6085,7 @@ ul.social {
   background-blend-mode: overlay; }
 
 .bg-primary {
-  background-color: #279c0f; }
+  background-color: #279c0e; }
 
 .bg-secondary {
   background-color: #43454d; }

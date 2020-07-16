@@ -46,7 +46,7 @@ theme = "hugo-hero-theme"
   pages = "/:filename/"
 
   [minify]
-  disableCSS = false
+  disableCSS = true
   disableHTML = false
   disableJS = false
   disableJSON = false

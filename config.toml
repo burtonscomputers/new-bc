@@ -44,3 +44,30 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+  [minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = false
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      decimals = -1
+      keepCSS2 = true
+      keepWhitespace = true      
+    [minify.tdewolff.html]
+      keepConditionalComments = true
+      keepDefaultAttrVals = true
+      keepDocumentTags = true
+      keepEndTags = true
+      keepQuotes = false
+      keepWhitespace = false
+    [minify.tdewolff.js]
+    [minify.tdewolff.json]
+    [minify.tdewolff.svg]
+      decimals = -1
+    [minify.tdewolff.xml]
+      keepWhitespace = false

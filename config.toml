@@ -45,7 +45,13 @@ theme = "hugo-hero-theme"
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
 
-  [minify]
+[module]
+  [module.hugoVersion]
+    extended = false
+    max = ""
+    min = ""
+
+[minify]
   disableCSS = true
   disableHTML = false
   disableJS = false

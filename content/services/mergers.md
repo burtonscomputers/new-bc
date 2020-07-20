@@ -9,11 +9,10 @@ heroSubHeading: 'Thinking of acquiring another business? Let us guide you throug
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+This is the services/mergers.md content text.
 
-## Ne verba patulosque numen vix libet
+## H2 line
+
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui

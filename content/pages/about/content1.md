@@ -8,4 +8,4 @@ button: ''
 
 ## No Limits
 
-I will work hard to get you machine as well as it can.
+I will work hard to get your machine working as well as it can.

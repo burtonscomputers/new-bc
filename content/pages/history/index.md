@@ -6,3 +6,5 @@ layout: 'aboutlayout'
 ---
 
 # About Heading
+
+This is the history/index.md content text.

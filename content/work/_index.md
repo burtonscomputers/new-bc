@@ -5,3 +5,6 @@ heroHeading: 'Work'
 heroSubHeading: 'Our portfolio and previous projects'
 heroBackground: ''
 ---
+This is the work/_index.md content text.
+
+
